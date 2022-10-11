@@ -1,0 +1,7 @@
+Difference between window,screen and document in Javascript
+
+   => Window:window is the execution context and global object for that context's JavaScript.
+
+   => Document:document contains the DOM, initialized by parsing HTML.
+
+   => Screen:screen describes the physical display's full screen.
